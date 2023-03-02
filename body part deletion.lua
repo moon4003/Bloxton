@@ -28,7 +28,7 @@ local sec = tab:Section("Elements")
 
 
 
---sec:image("http://www.roblox.com/asset/?id=12634949022",function()
+
 sec:Button("legs", function()
 
 local PartsToInis = {"Handle","LeftHand","LeftLowerArm","LeftUpperArm","Head","RightHand","RightUpperArm","RightLowerArm","UpperTorso","HumanoidRootPart"}
