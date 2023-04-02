@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/moon606/Scripts/main/bloxton/Main.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/moon734/Scripts/main/Bloxton/bloxton.lua'))()
